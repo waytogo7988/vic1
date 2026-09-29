@@ -1,0 +1,6 @@
+{
+  "name": "Kid's Book Atelier",
+  "description": "프리미엄 키즈 아트 아카이빙 구독 서비스 — 우리 아이의 낙서를 한 권의 하드커버 예술 동화책으로 출판",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
